@@ -27,6 +27,7 @@ namespace App1
         {
             this.InitializeComponent();
         }
+        // commentaire
 
         private void myButton_Click(object sender, RoutedEventArgs e)
         {
